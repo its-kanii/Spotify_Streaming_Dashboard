@@ -25,9 +25,9 @@ An interactive data pipeline and dashboard project that analyzes Spotify streami
 ```
 Spotify_Data_Pipeline/
 │── data/                # Raw & processed datasets  
-│── notebooks/           # Jupyter notebooks for analysis  
-│── scripts/             # Python scripts for ETL  
-│── reports/             # Visualizations & dashboard exports  
+│── producer/           # Jupyter notebooks for analysis  
+│── consumer/             # Python scripts for ETL  
+│── report/             # Visualizations & dashboard exports  
 │── README.md            # Project documentation  
 ```
 
