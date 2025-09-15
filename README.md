@@ -55,7 +55,7 @@ Spotify_Data_Pipeline/
 ---
 ## 📸 Dashboard Preview
 
-![Spotify Streaming Dashboard](report/screenshot/Screenshot 2025-09-14 184749.png)
+![Spotify Streaming Dashboard](report/screenshot/dashboard.png)
 
 --- 
 ## 📊 Insights & Use Cases  
