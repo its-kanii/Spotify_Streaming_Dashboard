@@ -53,7 +53,11 @@ Spotify_Data_Pipeline/
 5. Open dashboard in Power BI / Excel for interactive exploration.  
 
 ---
+## 📸 Dashboard Preview
 
+![Spotify Streaming Dashboard](report/screenshot/Screenshot 2025-09-14 184749.png)
+
+--- 
 ## 📊 Insights & Use Cases  
 - 🎧 Identify most-streamed songs & artists.  
 - 📅 Track daily/weekly listening patterns.  
