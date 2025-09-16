@@ -5,14 +5,14 @@ An interactive data pipeline and dashboard project that analyzes Spotify streami
 ---
 
 ## 📌 Features  
-- ✅ **Data Pipeline**: Automated ETL process to clean and transform Spotify streaming data.  
-- ✅ **Data Analysis**: Explore top tracks, artists, genres, and listening patterns.  
-- ✅ **Dashboard**: Interactive visualizations for user engagement and insights.  
-- ✅ **Scalable Design**: Easy to extend for additional datasets or APIs.  
+- **Data Pipeline**: Automated ETL process to clean and transform Spotify streaming data.  
+- **Data Analysis**: Explore top tracks, artists, genres, and listening patterns.  
+- **Dashboard**: Interactive visualizations for user engagement and insights.  
+- **Scalable Design**: Easy to extend for additional datasets or APIs.  
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 - **Python** – Data processing & ETL  
 - **Pandas / NumPy** – Data cleaning & transformation  
 - **Matplotlib / Seaborn / Plotly** – Data visualization  
@@ -21,7 +21,7 @@ An interactive data pipeline and dashboard project that analyzes Spotify streami
 
 ---
 
-## 📂 Project Structure  
+## Project Structure  
 ```
 Spotify_Data_Pipeline/
 │── data/                # Raw & processed datasets  
@@ -59,10 +59,10 @@ Spotify_Data_Pipeline/
 
 --- 
 ## 📊 Insights & Use Cases  
-- 🎧 Identify most-streamed songs & artists.  
-- 📅 Track daily/weekly listening patterns.  
-- 🌍 Compare genre popularity across regions.  
-- 📈 Support decision-making for music trends.  
+- Identify most-streamed songs & artists.  
+- Track daily/weekly listening patterns.  
+- Compare genre popularity across regions.  
+- Support decision-making for music trends.  
 
 ---
 
